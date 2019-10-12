@@ -1,0 +1,34 @@
+#-------------------------#
+# Task: Making a Sandwich #
+#-------------------------#
+
+Get Supplies
+  Go to cupboard
+    Grab knife
+    Grab cutting board
+  Go to counter
+    Put supplies down
+
+Get Ingredients
+  Go to fridge
+    Grab turkey
+    Grab lettuce
+    Grab cheese
+  Go to pantry
+    Grab bread
+
+
+Assemble Sandwich
+  Arrange bread on cutting board
+  Assemble top half
+    Add cheese
+      Slice cheese
+        Put cheese on cutting board
+        Slice cheese with knife
+      Put cheese on one slice of bread
+    Add turkey
+      Open package
+      Put on top of cheese
+  Assemble bottom half
+    Put lettuce on bread
+  Put the two halves together
