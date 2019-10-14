@@ -4,13 +4,14 @@
 
 Attributes:
   height (float)
-  hasFlowers (boolean)
   isPoisonous (boolean)
   numFruits (integer)
   numLeaves (integer)
+  species (string)
+
 
 Methods
   pickFruit(Subtracts 1 from numFruits)
   pickLeaf(Subtracts 1 from numLeaves)
   prune(Subtracts given amount from height)
-  pollinate(if hasFlowers == true, hasFlowers = false and numFruits += 10)
+  getSpecies(returns species)
