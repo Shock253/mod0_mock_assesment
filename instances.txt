@@ -1,0 +1,16 @@
+
+Plant instance: Poison Ivy
+
+Attributes:
+  height (float) = 1.2 (in meters)
+  isPoisonous (boolean) = true
+  numFruits (integer) = 0
+  numLeaves (integer) = 67
+
+Plant instance: Apple Tree
+
+Attributes:
+  height (float) = 8.5
+  isPoisonous (boolean) = false
+  numFruits (integer) = 15
+  numLeaves (integer) = 536
