@@ -6,6 +6,7 @@ Attributes:
   isPoisonous: true
   numFruits: 0
   numLeaves: 67
+  species: "Malus domestica"
 
 Plant instance: Apple Tree
 
@@ -14,3 +15,4 @@ Attributes:
   isPoisonous: false
   numFruits: 15
   numLeaves: 536
+  species: "Malus domestica"
